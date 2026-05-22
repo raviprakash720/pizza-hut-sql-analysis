@@ -160,7 +160,7 @@ The project uses 4 tables:
 
 # 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ---
 
